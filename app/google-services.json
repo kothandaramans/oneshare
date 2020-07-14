@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762832636573",
+    "firebase_url": "https://oneshare-88199.firebaseio.com",
+    "project_id": "oneshare-88199",
+    "storage_bucket": "oneshare-88199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762832636573:android:0ea873262c0d4012ada274",
+        "android_client_info": {
+          "package_name": "com.example.oneshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762832636573-8uduelr9dp15olftrjrtb8e7jhj59nct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oneshare",
+            "certificate_hash": "affce63e81ec544b0d171cd11a968a7d81e795b9"
+          }
+        },
+        {
+          "client_id": "762832636573-sjhc5nbm615gjmo7adbqnnp87b8kauev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbMu7WlbQokI0sZh6uTucx85lNK4OpWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762832636573-sjhc5nbm615gjmo7adbqnnp87b8kauev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
