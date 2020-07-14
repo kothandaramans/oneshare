@@ -10,8 +10,8 @@ The Main objectives of this project are:
 
 # Sample Screenshot
 
-<img src="screenshot/admin.png" alt="demo" height="500px" width="300px"> <br><br>
-<img src="screenshot/admin1.png" alt="demo"> <br><br>
-<img src="screenshot/admin2.png" alt="demo"> <br><br>
-<img src="screenshot/u1.png" alt="demo"> <br><br>
-<img src="screenshot/u2.png" alt="demo"> <br><br>
+<img src="screenshot/admin.png" alt="demo" height="500px" width="300px">
+<img src="screenshot/admin1.png" alt="demo" height="500px" width="300px"> <br><br>
+<img src="screenshot/admin2.png" alt="demo" height="500px" width="300px">
+<img src="screenshot/u1.png" alt="demo" height="500px" width="300px"> <br><br>
+<img src="screenshot/u2.png" alt="demo" height="500px" width="300px"> 
